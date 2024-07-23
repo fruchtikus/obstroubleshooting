@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T07:57:52.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="koxOHPGm_1pHmtKtGpz9" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T08:21:11.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zt7RJOMDox_w948sBaAy" version="24.7.3" type="github">
   <diagram name="Seite-1" id="SzO660v62tbblVOPT_uv">
-    <mxGraphModel dx="1300" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="nqDF6ASY-rxrb7wUY3rS-9" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="nqDF6ASY-rxrb7wUY3rS-8" vertex="1" connectable="0">
           <mxGeometry x="-0.1538" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-15" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nqDF6ASY-rxrb7wUY3rS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nqDF6ASY-rxrb7wUY3rS-2" target="nqDF6ASY-rxrb7wUY3rS-16" edge="1">
@@ -25,7 +25,7 @@
         </mxCell>
         <mxCell id="nqDF6ASY-rxrb7wUY3rS-15" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="nqDF6ASY-rxrb7wUY3rS-14" vertex="1" connectable="0">
           <mxGeometry x="-0.1613" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="67" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nqDF6ASY-rxrb7wUY3rS-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;is the conveyo&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;r belt running&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;rounded=1;shadow=1;spacingRight=10;spacingLeft=10;spacing=0;" parent="1" vertex="1">
@@ -35,85 +35,85 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nqDF6ASY-rxrb7wUY3rS-7" value="start the conveyor belt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqDF6ASY-rxrb7wUY3rS-11" target="05dexWdBGAUjfJd2ZQ2P-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nqDF6ASY-rxrb7wUY3rS-11" value="start feeding material" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="850" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqDF6ASY-rxrb7wUY3rS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="05dexWdBGAUjfJd2ZQ2P-24" source="05dexWdBGAUjfJd2ZQ2P-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="569.9999999999998" y="340" as="sourcePoint" />
-            <mxPoint x="660" y="680" as="targetPoint" />
+            <mxPoint x="569.9999999999998" y="400" as="sourcePoint" />
+            <mxPoint x="660" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nqDF6ASY-rxrb7wUY3rS-20" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" parent="nqDF6ASY-rxrb7wUY3rS-19" vertex="1" connectable="0">
           <mxGeometry x="-0.0727" y="4" relative="1" as="geometry">
-            <mxPoint x="-4" y="4" as="offset" />
+            <mxPoint x="-4" y="-36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nqDF6ASY-rxrb7wUY3rS-16" target="05dexWdBGAUjfJd2ZQ2P-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="290" />
+              <mxPoint x="660" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-11" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" connectable="0" parent="05dexWdBGAUjfJd2ZQ2P-9">
           <mxGeometry x="-0.2457" relative="1" as="geometry">
-            <mxPoint x="-18" as="offset" />
+            <mxPoint x="-68" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nqDF6ASY-rxrb7wUY3rS-16" target="05dexWdBGAUjfJd2ZQ2P-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="290" />
-              <mxPoint x="200" y="410" />
-              <mxPoint x="400" y="410" />
+              <mxPoint x="180" y="270" />
+              <mxPoint x="180" y="430" />
+              <mxPoint x="400" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-20" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;spacing=3;spacingRight=0;" vertex="1" connectable="0" parent="05dexWdBGAUjfJd2ZQ2P-19">
           <mxGeometry x="-0.7739" relative="1" as="geometry">
-            <mxPoint x="20" y="-2" as="offset" />
+            <mxPoint x="31" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nqDF6ASY-rxrb7wUY3rS-16" value="is the scale mounted on the correct distance to the belt surface&lt;div&gt;&lt;br&gt;&lt;table style=&quot;border: 1px solid rgb(0, 0, 0); border-collapse: collapse;&quot; border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: left; border-collapse: collapse;&quot; border=&quot;1&quot;&gt;type&lt;/td&gt;&lt;td style=&quot;&quot;&gt;max. distance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align: left;&quot;&gt;standard measuring range&lt;/td&gt;&lt;td style=&quot;&quot;&gt;600 mm&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align: left;&quot;&gt;high measuring range&lt;/td&gt;&lt;td&gt;950 mm&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;perimeterSpacing=0;spacing=0;whiteSpace=wrap;html=1;spacingTop=0;spacingRight=20;spacingLeft=20;rounded=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="210" width="275" height="160" as="geometry" />
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-16" value="is the scale mounted on the correct distance to the belt surface&lt;br&gt;&lt;div&gt;read the user manual for the correct distances and positions&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;perimeterSpacing=0;spacing=0;whiteSpace=wrap;html=1;spacingTop=0;spacingRight=20;spacingLeft=20;rounded=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="245" y="230" width="275" height="80" as="geometry" />
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="05dexWdBGAUjfJd2ZQ2P-26" target="05dexWdBGAUjfJd2ZQ2P-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="810" as="sourcePoint" />
+            <mxPoint x="660" y="870" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-3" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" connectable="0" parent="05dexWdBGAUjfJd2ZQ2P-2">
           <mxGeometry x="-0.2121" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="05dexWdBGAUjfJd2ZQ2P-1" target="nqDF6ASY-rxrb7wUY3rS-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="1060" />
-              <mxPoint x="880" y="1060" />
-              <mxPoint x="880" y="370" />
+              <mxPoint x="660" y="1170" />
+              <mxPoint x="790" y="1170" />
+              <mxPoint x="790" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-1" value="execute empty belt calibration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;spacingLeft=20;spacingRight=20;spacingTop=0;spacing=0;fontFamily=Helvetica;fontSize=12;fontColor=default;perimeter=rectanglePerimeter;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1000" width="160" height="50" as="geometry" />
+          <mxGeometry x="580" y="1060" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-4" value="check if the scale starts counting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="05dexWdBGAUjfJd2ZQ2P-8" target="05dexWdBGAUjfJd2ZQ2P-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-14" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" connectable="0" parent="05dexWdBGAUjfJd2ZQ2P-13">
           <mxGeometry x="-0.16" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-39" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="05dexWdBGAUjfJd2ZQ2P-8" target="05dexWdBGAUjfJd2ZQ2P-15">
@@ -121,42 +121,70 @@
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-18" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" connectable="0" parent="05dexWdBGAUjfJd2ZQ2P-16">
           <mxGeometry x="-0.4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-8" value="is the scale mounted over the discharge drum or over a support roller station" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;perimeterSpacing=0;spacing=0;whiteSpace=wrap;html=1;spacingTop=0;spacingRight=20;spacingLeft=20;rounded=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="370" width="210" height="80" as="geometry" />
+          <mxGeometry x="555" y="390" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="05dexWdBGAUjfJd2ZQ2P-12" target="05dexWdBGAUjfJd2ZQ2P-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-25" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" connectable="0" parent="05dexWdBGAUjfJd2ZQ2P-22">
           <mxGeometry x="0.2341" y="-3" relative="1" as="geometry">
-            <mxPoint x="69" y="3" as="offset" />
+            <mxPoint x="15" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-12" value="has the belt all time contact with the support rollers or with the drum" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;perimeterSpacing=0;spacing=0;whiteSpace=wrap;html=1;spacingTop=0;spacingRight=20;spacingLeft=20;rounded=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="550" width="210" height="60" as="geometry" />
+          <mxGeometry x="555" y="610" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="05dexWdBGAUjfJd2ZQ2P-15" value="ensure the correct installation the optical belt scale.&lt;div&gt;read the user manual.&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;spacing=0;spacingTop=0;spacingRight=20;spacingLeft=20;rounded=1;shadow=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="320" y="460" width="160" height="70" as="geometry" />
+        <mxCell id="05dexWdBGAUjfJd2ZQ2P-15" value="ensure the correct installation.&lt;div&gt;read the user manual.&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;spacing=0;spacingTop=0;spacingRight=20;spacingLeft=20;rounded=1;shadow=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="05dexWdBGAUjfJd2ZQ2P-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="05dexWdBGAUjfJd2ZQ2P-21" target="05dexWdBGAUjfJd2ZQ2P-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279.9999999999999" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="750" />
+              <mxPoint x="634" y="750" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-21" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ensure that the belt has contat with the support rollers or with the drum all the time, independently if it&#39;s running empty or it&#39;s feeding material&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;spacing=0;spacingTop=0;spacingRight=20;spacingLeft=20;rounded=1;shadow=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="300" y="620" width="220" height="80" as="geometry" />
+          <mxGeometry x="270" y="600" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="05dexWdBGAUjfJd2ZQ2P-24" target="05dexWdBGAUjfJd2ZQ2P-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-28" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" connectable="0" parent="05dexWdBGAUjfJd2ZQ2P-27">
           <mxGeometry x="-0.3137" y="-3" relative="1" as="geometry">
-            <mxPoint y="9" as="offset" />
+            <mxPoint x="3" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-24" value="is the red led flashing once per second and the RPM is shown in SensorManager greater than zero" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;perimeterSpacing=0;spacing=0;whiteSpace=wrap;html=1;spacingTop=0;spacingRight=20;spacingLeft=20;rounded=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="730" width="210" height="60" as="geometry" />
+          <mxGeometry x="555" y="790" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="05dexWdBGAUjfJd2ZQ2P-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="05dexWdBGAUjfJd2ZQ2P-26" target="05dexWdBGAUjfJd2ZQ2P-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="05dexWdBGAUjfJd2ZQ2P-37" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" connectable="0" parent="05dexWdBGAUjfJd2ZQ2P-35">
+          <mxGeometry x="-0.3329" y="4" relative="1" as="geometry">
+            <mxPoint x="-7" y="-4" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="05dexWdBGAUjfJd2ZQ2P-26" value="are the lenses and windows of the scale clean" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;perimeterSpacing=0;spacing=0;whiteSpace=wrap;html=1;spacingTop=0;spacingRight=20;spacingLeft=20;rounded=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="880" width="210" height="60" as="geometry" />
+          <mxGeometry x="555" y="940" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="05dexWdBGAUjfJd2ZQ2P-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="05dexWdBGAUjfJd2ZQ2P-34" target="05dexWdBGAUjfJd2ZQ2P-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="1040" />
+              <mxPoint x="620" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="05dexWdBGAUjfJd2ZQ2P-34" value="clean the lenses and windows" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;spacing=0;spacingTop=0;spacingRight=20;spacingLeft=20;rounded=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="940" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
