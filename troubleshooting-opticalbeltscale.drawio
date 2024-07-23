@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" modified="2024-07-23T06:32:01.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="yttPAZzmaE1nUeND_c_2" version="24.7.1" type="device">
+  <diagram name="Seite-1" id="SzO660v62tbblVOPT_uv">
+    <mxGraphModel dx="780" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nqDF6ASY-rxrb7wUY3rS-1" target="nqDF6ASY-rxrb7wUY3rS-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-1" value="scale is not counting volume" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="90" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nqDF6ASY-rxrb7wUY3rS-2" target="nqDF6ASY-rxrb7wUY3rS-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-9" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="nqDF6ASY-rxrb7wUY3rS-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.1538" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nqDF6ASY-rxrb7wUY3rS-2" target="nqDF6ASY-rxrb7wUY3rS-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-15" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="nqDF6ASY-rxrb7wUY3rS-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.1613" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-2" value="is the conveyour belt running" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;rounded=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="160" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nqDF6ASY-rxrb7wUY3rS-7" target="nqDF6ASY-rxrb7wUY3rS-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-7" value="start the conveyor belt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-11" value="check if the scale starts counting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="289.9999999999998" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-20" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" parent="nqDF6ASY-rxrb7wUY3rS-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.0727" y="4" relative="1" as="geometry">
+            <mxPoint x="-34" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-16" value="is the scale mounted on the correct distance to the belt surface&lt;br&gt;standard type: max. 600 mm&lt;br&gt;high measuring range: max. 950 mm" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;perimeterSpacing=0;spacing=0;whiteSpace=wrap;html=1;spacingTop=0;spacingRight=20;spacingLeft=20;rounded=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="260" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nqDF6ASY-rxrb7wUY3rS-18" value="is the red led flashing once per second" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;spacingLeft=20;spacingRight=20;spacingTop=0;spacing=0;fontFamily=Helvetica;fontSize=12;fontColor=default;perimeter=hexagonPerimeter2;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
